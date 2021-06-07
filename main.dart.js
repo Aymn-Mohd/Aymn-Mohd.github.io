@@ -52288,7 +52288,7 @@ Z.pc(new F.OZ(new L.P_("Montserrat",q),o))
 o=t.F
 return T.tU(C.c4,H.a([n,M.eG(p,T.ah_(H.a([new T.fj(C.aH,p,p,L.o_("Ayman Mohammed.",s.VR("Montserrat_"+q.h(0),H.a(["Montserrat"],t.s)),C.c_),p),new T.fj(C.aH,p,p,T.ns(new T.md(C.j,p,p),15,100),p)],o),C.hn,C.iw),p,p,650,p,p,p)],o),C.bX)}}
 F.As.prototype={
-R:function(a,b){return new S.r1(P.aE(["/",new F.Re(),"/theteam",new F.Rf(),"/events",new F.Rg(),"/projects",new F.Rh(),"/contactus",new F.Ri()],t.N,t.hw),"/","Innovation@OOW",null)}}
+R:function(a,b){return new S.r1(P.aE(["/",new F.Re(),"/theteam",new F.Rf(),"/events",new F.Rg(),"/projects",new F.Rh(),"/contactus",new F.Ri()],t.N,t.hw),"/","Aymn Mohd",null)}}
 F.Re.prototype={
 $1:function(a){return new Y.ft(null)},
 $S:45}
